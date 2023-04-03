@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\bin\Debug\net6.0\Week8FontionsWithReturn.exe
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\bin\Debug\net6.0\Week8FontionsWithReturn.deps.json
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\bin\Debug\net6.0\Week8FontionsWithReturn.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\bin\Debug\net6.0\Week8FontionsWithReturn.dll
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\bin\Debug\net6.0\ref\Week8FontionsWithReturn.dll
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\bin\Debug\net6.0\Week8FontionsWithReturn.pdb
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.dll
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\ref\Week8FontionsWithReturn.dll
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.pdb
+C:\Users\BENAHMAD\source\repos\Week8FontionsWithReturn\Week8FontionsWithReturn\obj\Debug\net6.0\Week8FontionsWithReturn.genruntimeconfig.cache
